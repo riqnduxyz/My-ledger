@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Book cover shadow/outline -->
+    <path
+        android:fillColor="#0D000000"
+        android:pathData="M32,24h44a4,4 0,0 1,4 4v52a4,4 0,0 1,-4 4h-44a4,4 0,0 1,-4 -4v-52a4,4 0,0 1,4 -4z" />
+    <!-- Book Cover (Vibrant Teal) -->
+    <path
+        android:fillColor="#4DB6AC"
+        android:pathData="M34,26h40a4,4 0,0 1,4 4v48a4,4 0,0 1,-4 4h-40a4,4 0,0 1,-4 -4v-48a4,4 0,0 1,4 -4z" />
+    <!-- Spine/Binding (Dark Teal) -->
+    <path
+        android:fillColor="#00695C"
+        android:pathData="M30,26h6v56h-6a4,4 0,0 1,-4 -4v-48a4,4 0,0 1,4 -4z" />
+    <!-- Golden currency medallion -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,54m-12,0a12,12 0,1 1,24 0a12,12 0,1 1,-24 0" />
+    <!-- Dollar sign in center of coin -->
+    <path
+        android:fillColor="#FF8F00"
+        android:pathData="M55,47h-2v2c-1.66,0.34 -3,1.43 -3,3c0,1.86 1.5,2.71 3.5,3.19c2.04,0.49 2.5,1.06 2.5,1.81c0,0.85 -0.63,1.44 -2,1.44c-1.42,0 -2.18,-0.62 -2.29,-1.44h-2c0.12,1.67 1.35,2.77 3,3.08v1.92h2v-1.91c1.66,-0.33 3,-1.41 3,-3.09c0,-1.91 -1.43,-2.68 -3.5,-3.18c-1.89,-0.46 -2.5,-1.1 -2.5,-1.82c0,-0.74 0.69,-1.31 2,-1.31c1.11,0 1.83,0.53 1.94,1.31h2c-0.12,-1.59 -1.24,-2.72 -2.94,-3.08z" />
+    <!-- Bookmark ribbon (Coral) -->
+    <path
+        android:fillColor="#FF7043"
+        android:pathData="M64,26h6v24l-3,-3l-3,3z" />
+</vector>

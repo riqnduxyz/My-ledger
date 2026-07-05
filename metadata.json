@@ -1,0 +1,6 @@
+{
+  "name": "Ledger Notes",
+  "description": "A simple ledger and expense notes app with category filtering and instant multi-device syncing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
